@@ -1,0 +1,38 @@
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\bin\Debug\net6.0\ClassLab-12.exe
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\bin\Debug\net6.0\ClassLab-12.deps.json
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\bin\Debug\net6.0\ClassLab-12.runtimeconfig.json
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\bin\Debug\net6.0\ClassLab-12.dll
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\bin\Debug\net6.0\ClassLab-12.pdb
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\bin\Debug\net6.0\Service.dll
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\bin\Debug\net6.0\Service.pdb
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.csproj.CopyComplete
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.dll
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\refint\ClassLab-12.dll
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.pdb
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.genruntimeconfig.cache
+C:\Users\User\source\repos\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ref\ClassLab-12.dll
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\bin\Debug\net6.0\ClassLab-12.exe
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\bin\Debug\net6.0\ClassLab-12.deps.json
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\bin\Debug\net6.0\ClassLab-12.runtimeconfig.json
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\bin\Debug\net6.0\ClassLab-12.dll
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\bin\Debug\net6.0\ClassLab-12.pdb
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\bin\Debug\net6.0\Domain.dll
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\bin\Debug\net6.0\Service.dll
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\bin\Debug\net6.0\Service.pdb
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\bin\Debug\net6.0\Domain.pdb
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.AssemblyInfo.cs
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.csproj.CopyComplete
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.dll
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\refint\ClassLab-12.dll
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.pdb
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ClassLab-12.genruntimeconfig.cache
+C:\Users\User\Desktop\Extention, Struct, Nullable\ClassLab-12\ClassLab-12\obj\Debug\net6.0\ref\ClassLab-12.dll
